@@ -46,4 +46,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.08 - 2025.08*, [Meta], Mentor: Zhigang Hua and Yan Xie.
