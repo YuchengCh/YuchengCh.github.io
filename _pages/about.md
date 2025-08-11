@@ -29,17 +29,17 @@ If you are interested in any of these topics, feel free to reach out as I am alw
 
 - [Higher-order Structure Boosts Link Prediction on Temporal Graphs](https://arxiv.org/abs/2505.15746), Jingzhe Liu, Zhigang Hua, Yan Xie, Bingheng Li, Harry Shomer, **Yu Song**, Kaveh Hassani, Jiliang Tang, Preprint 2025
 
-- [Text-space Graph Foundation Models: Comprehensive Benchmarks and Insights](https://neurips.cc/virtual/2024/poster/96552), Zhikai Chen, Haitao Mao, Jingzhe Liu, **Yu Song**, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang, NeurIPS 2024
+- [Text-space Graph Foundation Models: Comprehensive Benchmarks and Insights](https://arxiv.org/abs/2406.10727), Zhikai Chen, Haitao Mao, Jingzhe Liu, **Yu Song**, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang, NeurIPS 2024
 
 - [Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](https://arxiv.org/abs/2408.11243), Qian Ma, Haitao Mao, Jingzhe Liu, Zhehua Zhang, Chunlin Feng, **Yu Song**, Yihan Shao, Yao Ma, LoG 2024
 
 - [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873), **Yu Song**, Haitao Mao, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu, LoG 2024
 
-- [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://dl.acm.org/doi/abs/10.1145/3683690), Shijie Wang, Jiani Huang, Zhikai Chen, **Yu Song**, Wenzhuo Tang, Haitao Mao, Wenqi Fan, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, ACM TIST 2024
+- [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928), Shijie Wang, Jiani Huang, Zhikai Chen, **Yu Song**, Wenzhuo Tang, Haitao Mao, Wenqi Fan, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, ACM TIST 2024
 
-- [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://dl.acm.org/doi/10.1145/3616855.3635810), Junchen Fu, Fajie Yuan, **Yu Song**, Zheng Yuan, Mingyue Cheng, Shenghui Cheng, Jiaqi Zhang, Jie Wang, Yunzhu Pan, WSDM 2024
+- [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://arxiv.org/abs/2305.15036), Junchen Fu, Fajie Yuan, **Yu Song**, Zheng Yuan, Mingyue Cheng, Shenghui Cheng, Jiaqi Zhang, Jie Wang, Yunzhu Pan, WSDM 2024
 
-- [Where to Go Next for Recommender Systems? ID-vs. Modality-based Recommender Models Revisited](https://dl.acm.org/doi/10.1145/3539618.3591906), Zheng Yuan, Fajie Yuan, **Yu Song**, Youhua Li, Junchen Fu, Fei Yang, Yunzhu Pan, Yongxin Ni, SIGIR 2023
+- [Where to Go Next for Recommender Systems? ID-vs. Modality-based Recommender Models Revisited](https://arxiv.org/abs/2303.13835), Zheng Yuan, Fajie Yuan, **Yu Song**, Youhua Li, Junchen Fu, Fei Yang, Yunzhu Pan, Yongxin Ni, SIGIR 2023
 
 - [Learning on Graphs with Out-of-Distribution Nodes](https://dl.acm.org/doi/10.1145/3534678.3539457), **Yu Song**, Donglin Wang, KDD 2022
 
