@@ -47,4 +47,8 @@ If you are interested in any of these topics, feel free to reach out as I am alw
 
 
 # 💻 Internships
-- *2024.08 - 2025.08*, [Meta], Mentor: Zhigang Hua and Yan Xie.
+- *2024.08 - 2025.08*, Meta, Mentor: Zhigang Hua and Yan Xie.
+
+
+# Teaching
+- Fall 2025, Teaching Assistant, Introduction to Artificial Intelligence
