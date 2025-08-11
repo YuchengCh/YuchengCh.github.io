@@ -22,37 +22,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [A Scalable Pretraining Framework for Link Prediction with Efficient Adaptation](https://arxiv.org/abs/2508.04645), **Yu Song**, Zhigang Hua, Harry Shomer, Yan Xie, Jingzhe Liu, Bo Long, Hui Liu, **KDD 2025**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [Higher-order Structure Boosts Link Prediction on Temporal Graphs](https://arxiv.org/abs/2505.15746), Jingzhe Liu, Zhigang Hua, Yan Xie, Bingheng Li, Harry Shomer, **Yu Song**, Kaveh Hassani, Jiliang Tang, **arXiv 2025**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [Text-space Graph Foundation Models: Comprehensive Benchmarks and Insights](https://neurips.cc/virtual/2024/poster/96552), Zhikai Chen, Haitao Mao, Jingzhe Liu, **Yu Song**, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang, **NeurIPS 2024**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- [Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](https://arxiv.org/abs/2408.11243), Qian Ma, Haitao Mao, Jingzhe Liu, Zhehua Zhang, Chunlin Feng, **Yu Song**, Yihan Shao, Yao Ma, **arXiv 2024**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873), **Yu Song**, Haitao Mao, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu, **arXiv 2024**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://dl.acm.org/doi/abs/10.1145/3683690), Shijie Wang, Jiani Huang, Zhikai Chen, **Yu Song**, Wenzhuo Tang, Haitao Mao, Wenqi Fan, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, **ACM TIST 2024**
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://dl.acm.org/doi/10.1145/3616855.3635810), Junchen Fu, Fajie Yuan, **Yu Song**, Zheng Yuan, Mingyue Cheng, Shenghui Cheng, Jiaqi Zhang, Jie Wang, Yunzhu Pan, **WSDM 2024**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- [Where to Go Next for Recommender Systems? ID-vs. Modality-based Recommender Models Revisited](https://dl.acm.org/doi/10.1145/3539618.3591906), Zheng Yuan, Fajie Yuan, **Yu Song**, Youhua Li, Junchen Fu, Fei Yang, Yunzhu Pan, Yongxin Ni, **SIGIR 2023**
+
+- [Learning on Graphs with Out-of-Distribution Nodes](https://dl.acm.org/doi/10.1145/3534678.3539457), **Yu Song**, Donglin Wang, **KDD 2022**
+
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
