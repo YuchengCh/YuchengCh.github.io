@@ -19,7 +19,6 @@ redirect_from:
 
 Hello! I am a third-year Ph.D. student in Computer Science at Michigan State University, co-advised by Dr. Hui Liu and Dr. Jiliang Tang. Before joining MSU, I obtained my M.S. in Software Engineering from Huazhong University of Science and Technology.
 My research focuses on graph machine learning and large language models, with a particular emphasis on the intersection of the two. I explore ways to bridge these fields through large-scale pretraining, self-supervised learning, and graph serialization, and I apply these methods to tasks such as link prediction, recommender systems, and anomaly detection. I am especially interested in research that delivers real-world impact, including improvements in efficiency and generalization.
-
 If you are interested in any of these topics, feel free to reach out as I am always open to collaboration.
 
 
