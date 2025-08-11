@@ -50,5 +50,5 @@ If you are interested in any of these topics, feel free to reach out as I am alw
 - *2024.08 - 2025.08*, Meta, Mentor: Zhigang Hua and Yan Xie.
 
 
-# Teaching
+# 📚 Teaching
 - Fall 2025, Teaching Assistant, Introduction to Artificial Intelligence
