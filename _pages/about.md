@@ -17,37 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am a third-year Ph.D. student in Computer Science at Michigan State University, co-advised by Dr. Hui Liu and Dr. Jiliang Tang. Before joining MSU, I obtained my M.S. in Software Engineering from Huazhong University of Science and Technology.
-My research focuses on graph machine learning and large language models, with a particular emphasis on the intersection of the two. I explore ways to bridge these fields through large-scale pretraining, self-supervised learning, and graph serialization, and I apply these methods to tasks such as link prediction, recommender systems, and anomaly detection. I am especially interested in research that delivers real-world impact, including improvements in efficiency and generalization.
-If you are interested in any of these topics, feel free to reach out as I am always open to collaboration.
+I am a first-year Ph.D. student in the Department of Computer Science and Engineering at Michigan State University, advised by Dr. Jiliang Tang. I received my B.A. in Economics and Mathematics and B.S. in Computer Science degrees both from Columbia University, where I built a foundation that bridges technical expertise with humanistic perspectives. My research focuses on the intersection of large language models (LLMs) and education, particularly automated assessment, fairness, and human-centered AI. I am especially interested in developing multi-agent LLM frameworks for tasks such as grading, bias detection, and supporting teacher professional development, with the goal of creating systems that are both effective and socially impactful.
 
 
 
 # 📝 Publications 
 
-- [A Scalable Pretraining Framework for Link Prediction with Efficient Adaptation](https://arxiv.org/abs/2508.04645), **Yu Song**, Zhigang Hua, Harry Shomer, Yan Xie, Jingzhe Liu, Bo Long, Hui Liu, KDD 2025
+- [A llm-driven multi-agent systems for professional development of mathematics teachers](https://arxiv.org/abs/2507.05292), Kaiqi Yang, Hang Li, **Yucheng Chu**, Ahreum Han, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, arXiv 2025
 
-- [Higher-order Structure Boosts Link Prediction on Temporal Graphs](https://arxiv.org/abs/2505.15746), Jingzhe Liu, Zhigang Hua, Yan Xie, Bingheng Li, Harry Shomer, **Yu Song**, Kaveh Hassani, Jiliang Tang, Preprint 2025
+- [LLM-based Automated Grading with Human-in-the-Loop](https://arxiv.org/abs/2504.05239), Hang Li, **Yucheng Chu**, Kaiqi Yang, Yasemin Copur-Gencturk, Jiliang Tang, arXiv 2025
 
-- [Text-space Graph Foundation Models: Comprehensive Benchmarks and Insights](https://arxiv.org/abs/2406.10727), Zhikai Chen, Haitao Mao, Jingzhe Liu, **Yu Song**, Bingheng Li, Wei Jin, Bahare Fatemi, Anton Tsitsulin, Bryan Perozzi, Hui Liu, Jiliang Tang, NeurIPS 2024
+- [Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation](https://arxiv.org/abs/2504.05276), **Yucheng Chu**, Peng He, Hang Li, Haoyu Han, Kaiqi Yang, Yu Xue, Tingting Li, Joseph Krajcik, Jiliang Tang, arXiv 2025
 
-- [Do Neural Scaling Laws Exist on Graph Self-Supervised Learning?](https://arxiv.org/abs/2408.11243), Qian Ma, Haitao Mao, Jingzhe Liu, Zhehua Zhang, Chunlin Feng, **Yu Song**, Yihan Shao, Yao Ma, LoG 2024
+- [Bringing Generative Artificial Intelligence (GenAI) to Education](https://arxiv.org/abs/), Hang Li, Kaiqi Yang, **Yucheng Chu**, Jiliang Tang, Tutorial 2025
 
-- [A Pure Transformer Pretraining Framework on Text-attributed Graphs](https://arxiv.org/abs/2406.13873), **Yu Song**, Haitao Mao, Jiachen Xiao, Jingzhe Liu, Zhikai Chen, Wei Jin, Carl Yang, Jiliang Tang, Hui Liu, LoG 2024
+- [Ask-before-detection: Identifying and mitigating conformity bias in llm-powered error detector for math word problem solutions](https://arxiv.org/abs/2412.16838), Hang Li, Tianlong Xu, Kaiqi Yang, **Yucheng Chu**, Yanling Chen, Yichi Song, Qingsong Wen, Hui Liu, arXiv 2024
 
-- [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928), Shijie Wang, Jiani Huang, Zhikai Chen, **Yu Song**, Wenzhuo Tang, Haitao Mao, Wenqi Fan, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, ACM TIST 2024
+- [Unpacking political bias in large language models: Insights across topic polarization](https://arxiv.org/abs/2412.16746), Kaiqi Yang, Hang Li, **Yucheng Chu**, Yuping Lin, Tai-Quan Peng, Hui Liu, arXiv 2024
 
-- [Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights](https://arxiv.org/abs/2305.15036), Junchen Fu, Fajie Yuan, **Yu Song**, Zheng Yuan, Mingyue Cheng, Shenghui Cheng, Jiaqi Zhang, Jie Wang, Yunzhu Pan, WSDM 2024
+- [Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models](https://arxiv.org/abs/2412.16746), Tai-Quan Peng, Kaiqi Yang, Sanguk Lee, Hang Li, **Yucheng Chu**, Yuping Lin, Hui Liu, arXiv 2024
 
-- [Where to Go Next for Recommender Systems? ID-vs. Modality-based Recommender Models Revisited](https://arxiv.org/abs/2303.13835), Zheng Yuan, Fajie Yuan, **Yu Song**, Youhua Li, Junchen Fu, Fei Yang, Yunzhu Pan, Yongxin Ni, SIGIR 2023
+- [A LLM-powered automatic grading framework with human-level guidelines optimization](https://arxiv.org/abs/2410.02165), **Yucheng Chu**, Hang Li, Kaiqi Yang, Harry Shomer, Hui Liu, Yasemin Copur-Gencturk, Jiliang Tang, arXiv 2024
 
-- [Learning on Graphs with Out-of-Distribution Nodes](https://dl.acm.org/doi/10.1145/3534678.3539457), **Yu Song**, Donglin Wang, KDD 2022
-
-
-
-# 💻 Internships
-- *2024.08 - 2025.08*, Meta, Mentor: Zhigang Hua and Yan Xie.
+- [Content knowledge identification with multi-agent large language models (LLMs)](https://arxiv.org/abs/), Kaiqi Yang, **Yucheng Chu**, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, ICAI-Edu 2024
 
 
-# 📚 Teaching
-- Fall 2025, Teaching Assistant, Introduction to Artificial Intelligence
+
+
