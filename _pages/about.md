@@ -29,7 +29,7 @@ I am a first-year Ph.D. student in the Department of Computer Science and Engine
 
 - [Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation](https://arxiv.org/abs/2504.05276), **Yucheng Chu**, Peng He, Hang Li, Haoyu Han, Kaiqi Yang, Yu Xue, Tingting Li, Joseph Krajcik, Jiliang Tang, arXiv 2025
 
-- [Bringing Generative Artificial Intelligence (GenAI) to Education](https://arxiv.org/abs/), Hang Li, Kaiqi Yang, **Yucheng Chu**, Jiliang Tang, Tutorial 2025
+- [Bringing Generative Artificial Intelligence (GenAI) to Education](https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.workshop-tutorial-abstracts.250/2025.EDM.workshop-tutorial-abstracts.250.pdf), Hang Li, Kaiqi Yang, **Yucheng Chu**, Jiliang Tang, Tutorial 2025
 
 - [Ask-before-detection: Identifying and mitigating conformity bias in llm-powered error detector for math word problem solutions](https://arxiv.org/abs/2412.16838), Hang Li, Tianlong Xu, Kaiqi Yang, **Yucheng Chu**, Yanling Chen, Yichi Song, Qingsong Wen, Hui Liu, arXiv 2024
 
@@ -39,7 +39,7 @@ I am a first-year Ph.D. student in the Department of Computer Science and Engine
 
 - [A LLM-powered automatic grading framework with human-level guidelines optimization](https://arxiv.org/abs/2410.02165), **Yucheng Chu**, Hang Li, Kaiqi Yang, Harry Shomer, Hui Liu, Yasemin Copur-Gencturk, Jiliang Tang, arXiv 2024
 
-- [Content knowledge identification with multi-agent large language models (LLMs)](https://arxiv.org/abs/), Kaiqi Yang, **Yucheng Chu**, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, ICAI-Edu 2024
+- [Content knowledge identification with multi-agent large language models (LLMs)]([https://arxiv.org/abs/](https://arxiv.org/abs/2404.07960)), Kaiqi Yang, **Yucheng Chu**, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, ICAI-Edu 2024
 
 
 
