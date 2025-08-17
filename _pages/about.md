@@ -39,7 +39,7 @@ I am a first-year Ph.D. student in the Department of Computer Science and Engine
 
 - [A LLM-powered automatic grading framework with human-level guidelines optimization](https://arxiv.org/abs/2410.02165), **Yucheng Chu**, Hang Li, Kaiqi Yang, Harry Shomer, Hui Liu, Yasemin Copur-Gencturk, Jiliang Tang, arXiv 2024
 
-- [Content knowledge identification with multi-agent large language models (LLMs)]([https://arxiv.org/abs/](https://arxiv.org/abs/2404.07960)), Kaiqi Yang, **Yucheng Chu**, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, ICAI-Edu 2024
+- [Content knowledge identification with multi-agent large language models (LLMs)](https://arxiv.org/abs/2404.07960), Kaiqi Yang, **Yucheng Chu**, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, ICAI-Edu 2024
 
 
 
