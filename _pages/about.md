@@ -25,7 +25,7 @@ I am a first-year Ph.D. student in the Department of Computer Science and Engine
 
 - [A llm-driven multi-agent systems for professional development of mathematics teachers](https://arxiv.org/abs/2507.05292), Kaiqi Yang, Hang Li, **Yucheng Chu**, Ahreum Han, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, arXiv 2025
 
-- [LLM-based Automated Grading with Human-in-the-Loop](https://arxiv.org/abs/2504.05239), Hang Li, **Yucheng Chu**, Kaiqi Yang, Yasemin Copur-Gencturk, Jiliang Tang, arXiv 2025
+- [LLM-based Automated Grading with Human-in-the-Loop](https://arxiv.org/abs/2504.05239), Hang Li*, **Yucheng Chu***, Kaiqi Yang, Yasemin Copur-Gencturk, Jiliang Tang, arXiv 2025
 
 - [Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation](https://arxiv.org/abs/2504.05276), **Yucheng Chu**, Peng He, Hang Li, Haoyu Han, Kaiqi Yang, Yu Xue, Tingting Li, Joseph Krajcik, Jiliang Tang, in Proceedings of the 18th International Conference on Educational Data Mining (EDM), 2025
 
@@ -37,7 +37,7 @@ I am a first-year Ph.D. student in the Department of Computer Science and Engine
 
 - [Beyond Partisan Leaning: A Comparative Analysis of Political Bias in Large Language Models](https://arxiv.org/abs/2412.16746), Tai-Quan Peng, Kaiqi Yang, Sanguk Lee, Hang Li, **Yucheng Chu**, Yuping Lin, Hui Liu, arXiv 2024
 
-- [A LLM-powered automatic grading framework with human-level guidelines optimization](https://arxiv.org/abs/2410.02165), **Yucheng Chu**, Hang Li, Kaiqi Yang, Harry Shomer, Hui Liu, Yasemin Copur-Gencturk, Jiliang Tang, in Proceedings of the 18th International Conference on Educational Data Mining (EDM), 2025
+- [A LLM-powered automatic grading framework with human-level guidelines optimization](https://arxiv.org/abs/2410.02165), **Yucheng Chu***, Hang Li*, Kaiqi Yang, Harry Shomer, Hui Liu, Yasemin Copur-Gencturk, Jiliang Tang, in Proceedings of the 18th International Conference on Educational Data Mining (EDM), 2025
 
 - [Content knowledge identification with multi-agent large language models (LLMs)](https://arxiv.org/abs/2404.07960), Kaiqi Yang, **Yucheng Chu**, Taylor Darwin, Ahreum Han, Hang Li, Hongzhi Wen, Yasemin Copur-Gencturk, Jiliang Tang, Hui Liu, in Proceedings of the 25th International Conference on Artificial Intelligence in Education (AIED), 2024
 
